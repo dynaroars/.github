@@ -1,2 +1,2 @@
 
-## Code repository of the [Dynaroars](https://dynaroars.github.io) lab at George Mason University. 
+## Code repository of the [Roars](https://roars.dev) lab at George Mason University. 
